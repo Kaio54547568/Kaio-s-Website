@@ -23,7 +23,6 @@ The website showcases personal information, skills, projects, achievements, and 
 
 - **HTML5** – semantic and accessible structure  
 - **CSS3** – modern styling with Flexbox & Grid for layout  
-- **Responsive Techniques** – media queries and flexible units  
 
 ---
 
